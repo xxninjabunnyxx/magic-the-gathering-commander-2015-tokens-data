@@ -1,0 +1,18 @@
+---
+object: set
+id: 75af5bab-521e-47f4-b3b6-655ebddf5cb2
+code: tc15
+name: Commander 2015 Tokens
+uri: https://api.scryfall.com/sets/75af5bab-521e-47f4-b3b6-655ebddf5cb2
+scryfall_uri: https://scryfall.com/sets/tc15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atc15&unique=prints
+released_at: '2015-11-13'
+set_type: token
+card_count: 25
+parent_set_code: c15
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: cmd
+block: Commander
+icon_svg_uri: https://svgs.scryfall.io/sets/c15.svg?1694404800

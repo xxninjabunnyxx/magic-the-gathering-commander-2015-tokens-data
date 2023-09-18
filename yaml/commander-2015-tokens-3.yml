@@ -1,0 +1,142 @@
+---
+object: card
+id: 9494ce65-5f2d-421c-a112-5de18e36f48b
+oracle_id: 6788478d-e157-4483-be09-9edb3f841431
+multiverse_ids: []
+tcgplayer_id: 108191
+name: Cat
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/9494ce65-5f2d-421c-a112-5de18e36f48b
+scryfall_uri: https://scryfall.com/card/tc15/3/cat?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/4/9494ce65-5f2d-421c-a112-5de18e36f48b.jpg?1562857278
+  normal: https://cards.scryfall.io/normal/front/9/4/9494ce65-5f2d-421c-a112-5de18e36f48b.jpg?1562857278
+  large: https://cards.scryfall.io/large/front/9/4/9494ce65-5f2d-421c-a112-5de18e36f48b.jpg?1562857278
+  png: https://cards.scryfall.io/png/front/9/4/9494ce65-5f2d-421c-a112-5de18e36f48b.png?1562857278
+  art_crop: https://cards.scryfall.io/art_crop/front/9/4/9494ce65-5f2d-421c-a112-5de18e36f48b.jpg?1562857278
+  border_crop: https://cards.scryfall.io/border_crop/front/9/4/9494ce65-5f2d-421c-a112-5de18e36f48b.jpg?1562857278
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Cat
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 6121cf58-93d0-4430-a4a2-91778ba65249
+  component: combo_piece
+  name: Ajani, Caller of the Pride
+  type_line: Legendary Planeswalker — Ajani
+  uri: https://api.scryfall.com/cards/6121cf58-93d0-4430-a4a2-91778ba65249
+- object: related_card
+  id: 57ae202c-21bf-4142-a8f0-89a13c25f9f9
+  component: combo_piece
+  name: Kemba, Kha Regent
+  type_line: Legendary Creature — Cat Cleric
+  uri: https://api.scryfall.com/cards/57ae202c-21bf-4142-a8f0-89a13c25f9f9
+- object: related_card
+  id: 9494ce65-5f2d-421c-a112-5de18e36f48b
+  component: token
+  name: Cat
+  type_line: Token Creature — Cat
+  uri: https://api.scryfall.com/cards/9494ce65-5f2d-421c-a112-5de18e36f48b
+- object: related_card
+  id: 2256e72d-a3bc-45b3-9676-ca5017872386
+  component: combo_piece
+  name: Kemba, Kha Enduring
+  type_line: Legendary Creature — Cat Cleric
+  uri: https://api.scryfall.com/cards/2256e72d-a3bc-45b3-9676-ca5017872386
+- object: related_card
+  id: 3abce159-ec4f-432d-a9fa-00a3d1ae8020
+  component: combo_piece
+  name: Ajani's Chosen
+  type_line: Creature — Cat Soldier
+  uri: https://api.scryfall.com/cards/3abce159-ec4f-432d-a9fa-00a3d1ae8020
+- object: related_card
+  id: df11cf8d-ca63-4c3e-a567-b6a403a81aa7
+  component: combo_piece
+  name: White Sun's Zenith
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/df11cf8d-ca63-4c3e-a567-b6a403a81aa7
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 75af5bab-521e-47f4-b3b6-655ebddf5cb2
+set: tc15
+set_name: Commander 2015 Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/75af5bab-521e-47f4-b3b6-655ebddf5cb2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atc15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tc15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9494ce65-5f2d-421c-a112-5de18e36f48b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6788478d-e157-4483-be09-9edb3f841431&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: 101b0ebd-7d56-403b-96a8-cf2fcec6fcf4
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.26'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cat
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/108191?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
